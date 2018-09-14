@@ -1,0 +1,8 @@
+{
+    "name" : "Jish-Bot",
+    "version" : "1.0.0",
+    "description" : "Insults Joshua",
+    "main" : "jish.js",
+    "author" : "Chris-De-Castro",
+    "dependencies" : {}
+}
